@@ -12,9 +12,13 @@ Otra:
 https://www.swhosting.com/blog/servidor-cloud-o-vps-tres-diferencias-clave/
 
 Para hacer la comparación de precios, he encontrado esta web que vente todo tipo de servidores.
-El primero, el VPS, sale a 12 euros al mes, por 12 meses, 144 euros al año pagas por el servicio completo aunque logicamente no lo uses todo el tiempo.
+El primero:
+El VPS, sale a 12 euros al mes, por 12 meses, 144 euros al año pagas por el servicio completo aunque logicamente no lo uses todo el tiempo.
 https://www.ovh.es/order/vps/#/legacy/vps/options?vps=~(category~'ssd~product~'vps_ssd_model3~os~'linux)
-El segundo, el servidor cloud que vende la misma web que el VPS, es el primero de la lista, ya que es el que tiene mas o menos las mismas prestaciones, y sale a 0,056 euros la hora que uses, asi que haciendo cuentas, si solo se va a usar un máximo del 10% del tiempo de un año, sale a 0.1344 al dia, por 365 dias que tiene el año es un total de 49,056 euros al año.
+El segundo:
+El servidor cloud que vende la misma web que el VPS, es el primero de la lista, ya que es el que tiene mas o menos las mismas prestaciones, y sale a 0,056 euros la hora que uses, asi que haciendo cuentas, si solo se va a usar un máximo del 10% del tiempo de un año, sale a 0.1344 al dia, por 365 dias que tiene el año es un total de 49,056 euros al año.
+https://www.ovh.es/public-cloud/instancias/precios/
+
 En conclusión, por servicios con las mismas prestaciones, estamos pagando el casi el tripe por un servidor VPS.
 
 ### EJERCICIO 3
